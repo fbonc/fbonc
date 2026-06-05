@@ -15,19 +15,20 @@ Math & CS at ***UIUC***. Machine learning, applied analysis, probability. Longer
 
 ### Selected work
 
-**Generative Portfolio Site**  ·  WebGL, TypeScript, React, TailwindCSS  
-A Voronoi-stippling pipeline feeding a WebGL particle renderer
+**Lorem ipsum dolor**  ·  sit amet, consectetur
+adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-**3D Fractals**  ·  C++, OpenGL  
-C++ Real-time 3D fractal rendering via ray-marching and distance estimators
+**Ut enim ad minim veniam**  ·  quis, nostrud, exercitation
+ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+
 
 <p align="center"><img width="400" height="2" alt="line" src="https://github.com/user-attachments/assets/5f072603-5154-428d-97bc-d16cedb528e7" /></p>
 
 
 ### Experience
-- Currently conducting research on ML in Healthcare
-- SWE internship at ***BTG Pactual***, Latin America's largest investment bank
-- Undergraduate machine learning research under ***NeuroTech@UIUC*** in emotion classification from EEG data
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
+- Do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+- Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 
 <p align="center"><img width="1200" height="10" alt="line" src="https://github.com/user-attachments/assets/5f072603-5154-428d-97bc-d16cedb528e7" /></p>
