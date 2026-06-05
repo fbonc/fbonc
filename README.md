@@ -15,10 +15,10 @@ Math & CS at ***UIUC***. Machine learning, applied analysis, probability. Longer
 
 ### Selected work
 
-**Lorem ipsum dolor**  ·  sit amet, consectetur
+**Lorem ipsum dolor**  ·  sit amet, consectetur  
 adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-**Ut enim ad minim veniam**  ·  quis, nostrud, exercitation
+**Ut enim ad minim veniam**  ·  quis, nostrud, exercitation  
 ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
 
 
