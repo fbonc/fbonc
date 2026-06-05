@@ -31,5 +31,5 @@ C++ Real-time 3D fractal rendering via ray-marching and distance estimators
 
 <p align="center"><img width="1200" height="10" alt="line" src="https://github.com/user-attachments/assets/5f072603-5154-428d-97bc-d16cedb528e7" /></p>
 
-<p align="center"><sub>fbonc🇧🇷 🇬🇧  ·  Champaign, IL</sub></p>
+<p align="center"><sub>fbonc  ·  🇧🇷 🇬🇧  ·  Champaign, IL</sub></p>
 
