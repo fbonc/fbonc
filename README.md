@@ -26,7 +26,7 @@ C++ Real-time 3D fractal rendering via ray-marching and distance estimators
 ### Experience
 - Currently conducting research on ML in Healthcare
 - SWE internship at ***BTG Pactual***, Latin America's largest investment bank
-- Undergraduate machine learning research team under ***NeuroTech@UIUC*** in emotion classification from EEG data
+- Undergraduate machine learning research under ***NeuroTech@UIUC*** in emotion classification from EEG data
 
 
 <p align="center"><img width="1200" height="10" alt="line" src="https://github.com/user-attachments/assets/5f072603-5154-428d-97bc-d16cedb528e7" /></p>
