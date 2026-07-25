@@ -9,7 +9,7 @@
 
 
 
-Math & CS at ***UIUC***. Machine learning, applied analysis, probability. Longer-standing interests in computational biology and philosophy - primarily epistemology and metaphysics.
+Math & CS at ***UIUC***. Machine learning, applied analysis, probability. Longer-standing interests in computational biology and philosophy.
 
 <p align="center"><img width="1200" height="10" alt="line" src="https://github.com/user-attachments/assets/5f072603-5154-428d-97bc-d16cedb528e7" /></p>
 
