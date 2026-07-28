@@ -6,7 +6,7 @@
 
 Math & CS at ***UIUC***. Machine learning, applied analysis, probability. Longer-standing interests in computational biology and philosophy.
 
-—--
+---
 
 ### Selected work
 
@@ -21,6 +21,6 @@ ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
 - Do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
 - Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
-—--
+---
 
 <p align="center"><sub>fbonc  ·  🇧🇷 🇬🇧  ·  Champaign, IL</sub></p>
