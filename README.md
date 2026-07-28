@@ -6,7 +6,7 @@
 
 Math & CS at ***UIUC***. Machine learning, applied analysis, probability. Longer-standing interests in computational biology and philosophy.
 
-<p align="center"><img width="1200" height="10" alt="line" src="https://github.com/user-attachments/assets/5f072603-5154-428d-97bc-d16cedb528e7" /></p>
+—--
 
 ### Selected work
 
@@ -16,17 +16,11 @@ adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliq
 **Ut enim ad minim veniam**  ·  quis, nostrud, exercitation  
 ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
 
-
-<p align="center"><img width="400" height="2" alt="line" src="https://github.com/user-attachments/assets/5f072603-5154-428d-97bc-d16cedb528e7" /></p>
-
-
 ### Experience
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
 - Do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
 - Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
-
-<p align="center"><img width="1200" height="10" alt="line" src="https://github.com/user-attachments/assets/5f072603-5154-428d-97bc-d16cedb528e7" /></p>
+—--
 
 <p align="center"><sub>fbonc  ·  🇧🇷 🇬🇧  ·  Champaign, IL</sub></p>
-
